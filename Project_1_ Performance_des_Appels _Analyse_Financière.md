@@ -1,5 +1,8 @@
 # Dashboard Power BI : Performance des Appels et Analyse Financière de Service Spot
 
+![Dashboard Overview](./images/4-gif.gif)
+
+
 ### **Introduction :**
 Le projet consiste en la création d'un tableau de bord Power BI interactif et dynamique pour l'analyse de la performance des appels, la gestion des équipes et le suivi des revenus de l'entreprise. Ce tableau de bord s'adresse principalement aux managers et aux équipes de direction, afin de leur fournir une vue d'ensemble claire et précise sur les opérations quotidiennes de support client, ainsi que sur l'impact financier de ces activités. Grâce à une interface intuitive, il permet aux utilisateurs d'explorer les données sous différents angles, facilitant ainsi la prise de décision basée sur des insights data-driven.
 
