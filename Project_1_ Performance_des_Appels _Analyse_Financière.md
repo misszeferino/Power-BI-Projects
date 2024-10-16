@@ -1,6 +1,6 @@
 # Dashboard Power BI : Performance des Appels et Analyse Financière de Service Spot
 
-![Dashboard Overview](./images/4-gif.gif)
+![Dashboard Overview](./Images/4-gif.gif)
 
 
 ### **Introduction :**
