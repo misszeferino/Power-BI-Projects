@@ -52,3 +52,16 @@ Pour présenter ce projet Power BI dans votre portfolio de data analyst, il est 
      - **Croissance des revenus** : Quelle est l’évolution des revenus année par année par État ?
      ![Revenue](./Images/3-revenue.png)
 
+### 3. **Modélisation des Données**
+   Le tableau de bord repose sur une modélisation de données, qui facilite l'analyse des appels, des performances des employés et des revenus. Le modèle de données intègre plusieurs tables interconnectées, chacune jouant un rôle spécifique pour enrichir l'analyse :
+
+   - **Call Data** : La table principale contenant les informations sur chaque appel, y compris la durée, l'heure de l'appel, et les détails des appels abandonnés.
+   - **Sources Calendar** : Table de calendrier pour effectuer des analyses temporelles (par jour, mois, année) et observer les variations au fil du temps.
+   - **Employee** : Détails sur les employés impliqués dans la gestion des appels, permettant d'évaluer les performances individuelles.
+   - **Call Type** : Catégorisation des appels (support technique, facturation, ventes) pour comprendre la répartition des appels par type.
+   - **Time of Day** : Définition des périodes de la journée (matin, après-midi, nuit) afin de mieux analyser les pics d'activité et les temps d'attente.
+   - **SLA Status** : Indicateur de la conformité des appels aux délais SLA, essentiel pour évaluer la qualité du service.
+
+   L'image ci-dessous présente le modèle de données utilisé pour ce projet, illustrant les relations entre les différentes tables et la manière dont elles interagissent pour permettre une analyse approfondie :
+
+   ![Data Model](./Images/0-model_power_bi.png)
