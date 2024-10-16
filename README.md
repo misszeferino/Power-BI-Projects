@@ -22,7 +22,7 @@ This repository serves as a comprehensive showcase of my skills in data visualiz
 ### 1. Service Spot Call Center Analysis
    - **Industry**: Customer Service
    - **Description**: A Power BI dashboard that provides a comprehensive analysis of a call center's performance. It tracks metrics like call volume, average wait time, SLA compliance, and revenue generated from different types of calls.   
-   - **Project File**: [Link to project file](Project_1_ Performance_des_Appels _Analyse_Financière.md)
+   - **Project File**: [Link to project file](Project_1_Performance_des_Appels_Analyse_Financière.md)
 
 ## Contact
 If you have any questions or would like to discuss my work further, feel free to reach out:
