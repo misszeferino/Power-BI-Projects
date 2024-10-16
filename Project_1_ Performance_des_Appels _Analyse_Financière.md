@@ -22,3 +22,33 @@ Le projet consiste en la création d'un tableau de bord Power BI interactif et d
 4. **Faciliter la prise de décision grâce à une visualisation claire et interactive :**
    - Offrir un tableau de bord ergonomique avec des fonctionnalités avancées telles que les bookmarks, les filtres interactifs et les drill-throughs pour explorer les données en profondeur.
    - Permettre aux utilisateurs de naviguer facilement entre les différents aspects de l’analyse, et d’obtenir des réponses rapides à leurs questions pour une meilleure réactivité dans la gestion de l’entreprise.
+
+Pour présenter ce projet Power BI dans votre portfolio de data analyst, il est important de décrire sa structure, les questions posées par chaque visualisation, ainsi que les techniques utilisées pour une navigation efficace. Voici une description qui peut être utile pour cela :
+
+### 1. **Organisation Générale du Tableau de Bord**
+   - **Thèmes de l’analyse** : Le tableau de bord est structuré autour de trois thèmes principaux :
+     - **Analyse des appels** : Suivi des performances des appels (quantité, durée, temps d’attente, respect des SLA).
+     - **Analyse des employés et des managers** : Performance des équipes dans la gestion des appels.
+     - **Analyse des revenus** : Visualisation des revenus générés par les appels, avec des détails par type d'appel et par région.
+   - **Structure des Pages** : Chaque thème dispose de sa propre page ou onglet, permettant de se concentrer sur des aspects spécifiques des données. Les utilisateurs peuvent naviguer entre les pages pour passer de l’analyse des appels à celle des performances des équipes, puis aux aspects financiers.
+
+### 2. **Questions Posées par Chaque Page**
+   - **Analyse des Appels** :
+     - **Nombre d'appels par type** : Quels sont les types d'appels les plus fréquents (technique, facturation, ventes) ?
+     - **Temps d'attente moyen** : Quel est le temps d'attente moyen pour chaque type d'appel et comment varie-t-il selon les moments de la journée ?
+     - **Analyse SLA** : Quelle proportion d'appels respecte les délais SLA ? Quels sont les types d'appels qui sortent le plus des délais SLA ?
+     - **Appels abandonnés** : Quelle est la répartition des appels abandonnés par type ? Quel est leur impact sur le service ?
+     ![Call Analysis](./Images/1-call_analysis.png)
+
+   - **Analyse des Performances des Employés et Managers** :
+     - **Volume d'appels gérés par chaque employé** : Quel est le nombre moyen d'appels traités par employé ? Quelle est la proportion d'appels dans le respect des SLA pour chaque employé ?
+     - **Comparaison des managers** : Quels managers ont les équipes les plus performantes en termes de volume d'appels et de respect des SLA ?
+     - **Suivi temporel** : Comment les performances des employés et managers évoluent-elles au fil du temps (par mois ou année) ?
+     ![Employee](./Images/2-employees.png)
+
+   - **Analyse des Revenus** :
+     - **Revenus par type d'appel** : Quel type d'appel génère le plus de revenus (facturation, ventes, support technique) ?
+     - **Revenus par région** : Comment les revenus se répartissent-ils entre les différents États (Floride, Colorado, Washington) ?
+     - **Croissance des revenus** : Quelle est l’évolution des revenus année par année par État ?
+     ![Revenue](./Images/3-revenue.png)
+
